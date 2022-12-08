@@ -17,4 +17,4 @@ _________________________
 ### *Master's degree, Applied Linguistics.
 ### *The Fundamentals of Digital Marketing. Google.
 ### *Responsive Web Design. FreeCodeCamp.(in progress)
-### *«JavaScript/Front-end. Stage 0». RS Schools Course
+### *«JavaScript/Front-end. Stage 0». RS Schools Course 
